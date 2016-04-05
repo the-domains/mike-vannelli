@@ -1,0 +1,28 @@
+name: Mike Vannelli
+favicon: null
+layout_spectrum: 0.6280625560320914
+typography_spectrum: 0.7802735730074346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5028641764074564
+  lightness: 0.6613571904599667
+  saturation: 0.21457528974860907
+  rhythmicContrast: 0.862683066399768
+purpose: []
